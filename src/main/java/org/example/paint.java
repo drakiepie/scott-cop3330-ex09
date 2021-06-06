@@ -1,6 +1,11 @@
 package org.example;
 import java.util.Scanner;
 
+/*
+ *  UCF COP3330 Summer 2021 Exercise 9 Solution
+ *  Copyright 2021 Drake Scott
+ */
+
 public class paint {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
